@@ -1,13 +1,13 @@
-<h1 align="center">Hi there, I'm Davide Cipolla 👋</h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=180&section=header&text=Computer%20Science%20Student%20%26%20Developer&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-</p>
+<div align="center">
+  <h1>Hi there, I'm Davide Cipolla 👋</h1>
+  <h3>Computer Science Student & Developer</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Building+web+applications+%26+software;Turning+ideas+into+practical+solutions;Always+learning+new+technologies" alt="Typing SVG" /></a>
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Building+web+applications+%26+software;Turning+ideas+into+practical+solutions;Always+learning+new+technologies" alt="Typing SVG" />
+  </a>
 
-<p align="center">
+  <br />
+
   <a href="https://dav-cip.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-dav--cip.github.io-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -17,7 +17,7 @@
   <a href="mailto:cipolla.dav@gmail.com">
     <img src="https://img.shields.io/badge/Email-cipolla.dav%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -82,12 +82,12 @@ const developer = {
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=dav-cip&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Davide's GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav-cip&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180px" src="https://github-stats-alpha.vercel.app/api?username=dav-cip&cc=000&tc=fff&ic=38BDF8&bc=30363D" alt="Davide's GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dav-cip&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dav-cip&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dav-cip&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -95,11 +95,5 @@ const developer = {
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dav-cip&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=100&section=footer" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dav-cip&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
